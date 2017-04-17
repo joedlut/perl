@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
-use 5.010;
+use diagnostics;
+use 5.010; # in order to use say
 
 say "hello world";
