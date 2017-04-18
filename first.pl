@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-use strict;
+use strict; # when you declare a variable, you have to use my
 use warnings;
 use diagnostics;
 use 5.010; # in order to use say

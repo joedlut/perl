@@ -1,5 +1,0 @@
-DLUT is a great university.
-joedlut is a handsome boy.
-perl is a programming language.
-C++ is very hard to learn.
-C is a great language.
